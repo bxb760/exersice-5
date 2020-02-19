@@ -21,6 +21,7 @@
   <li><a href="article.html">U.S. Politics</a></li>
 </ul>
 
+<main>
 <h2>Silicon Valley &amp; Technology</h2>
 
 <h3>Tehran Bans Drones After Security Scares</h3>
@@ -43,19 +44,27 @@
 
 <p><a href="article.html">Read More</a></p>
 
-<h2>More Stories</h2>
+<section>
+  <h2>More Stories</h2>
+<article>
+  <h3><a href="article.html">Big Data and the Business of Mind-Reading</a></h3>
+  <img src="300.png" alt="Lots and lots of numbers" />
+</article>
+  
+<article>
+  <h3><a href="article.html">Google Chromebooks on Rise</a></h3>
+  <img src="300.pg" alt="Google Chromebook" />
+</article>
 
-<h3><a href="article.html">Big Data and the Business of Mind-Reading</a></h3>
-<img src="300.png" alt="Lots and lots of numbers" />
+<article>
+  <h3><a href="article.html">Immediacy Twitter Provides Overrated, Some Experts Say</a></h3>
+  <img src="300.png" alt="Trump tweets" />
+</article>
+</section>
+</main>
 
-<h3><a href="article.html">Google Chromebooks on Rise</a></h3>
-<img src="300.pg" alt="Google Chromebook" />
-
-<h3><a href="article.html">Immediacy Twitter Provides Overrated, Some Experts Say</a></h3>
-<img src="300.png" alt="Trump tweets" />
-
-<h2>Other ways to access VOA</h2>
-
+<footer>
+  <h2>Other ways to access VOA</h2>
 <ul>
   <li><a href="article.html">Get our newsletter</a></li>
   <li><a href="article.html">Subsribe to our podcasts</a></li>
@@ -90,6 +99,6 @@
 </ul>
 
 <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
-
+</footer>
 </body>
 </html>
