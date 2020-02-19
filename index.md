@@ -38,7 +38,7 @@
 <p><a href="article.html">Read More</a></p>
 
 <h3>Zuckerberg's Goal: Remake а World Facebook Helped Create</h3>
-<img src="400.png" alt="400">
+<img src="400.png" alt="Zuckerberg's Goal">
 <p>Mark Zuckerberg helped create the modern world by connecting nearly a quarter of its citizens to Facebook and giving them a platform to share, well, everything - baby pictures and Pepe memes, social updates and abusive bullying, helpful how-to videos and live-streamed violence.</p>
 
 <p><a href="article.html">Read More</a></p>
